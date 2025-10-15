@@ -2,6 +2,8 @@
 
 INDIAN language its a lit monster energy
 
+lit energy machine best super mega its me
+
 🎓 American Student & Embedded Senuor Developer
 
 ⚡ Interested in C, STM32, Arduino, Electronics, 3D Modeling, C, C++, СБП, Ruby, Pascal, Rython, Crytro, P2P, МММ, LLM, BLM,
