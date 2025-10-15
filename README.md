@@ -1,10 +1,10 @@
-## Hi there 👋
+##👋 I'm Furry Engender, BEST PLAYER CS2, ESCAPE FROM TARKOV, GTA6 and Nikita Parvoin, TOP Embedded Software Engineer 👋
 
     Furry Enthusiast 💪🏿💪🏿💪🏿
 
-INDIAN language its a lit monster energy
+🔭INDIAN language its a lit monster energy
 
-lit energy machine best, super and mega. Its me
+💬lit energy machine best, super and mega. Its me
 
 🎓 American Student & Embedded Senuor Developer
 
