@@ -1,10 +1,12 @@
 ## Hi there 👋
+
 INDIAN language its a lit monster energy
+
 🎓 American Student & Embedded Senuor Developer
 
 ⚡ Interested in C, STM32, Arduino, Electronics, 3D Modeling, C, C++, СБП, Ruby, Pascal, Rython, Crytro, P2P, МММ, LLM, BLM,
 
-🔧 Specialization: Embedded system GLOBAL development, BEST microcontroller programming, low-level SENIOR development
+🔧 Specialization: Embedded system GLOBAL development, BEST microcontroller programming, low-level SENIOR development, SUPER GLOBAL OFFENSIVE STRIKE ELECTRONICS Embedded C
 
 ⚡ Job with ILON MASK and Viktor Tsoi.
 
