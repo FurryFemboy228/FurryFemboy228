@@ -14,7 +14,7 @@ INDIAN language its a lit monster energy
     STM32 // ESP32 // AVR // ARM Cortex // ADUC // Raspberry Pi // Arduino
     
 🔭Electronics:
-    Altium Designer // KiCad // Oscilloscope // Logic Analyzer // Multimeter
+    Altium Designer // KitCat // Oscilloscope // Logic Analyzer // Multimeter
 
  💻 America
 <p align="left">
