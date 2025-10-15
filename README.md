@@ -2,7 +2,7 @@
 
 INDIAN language its a lit monster energy
 
-lit energy machine best super mega its me
+lit energy machine best, super and mega. Its me
 
 🎓 American Student & Embedded Senuor Developer
 
