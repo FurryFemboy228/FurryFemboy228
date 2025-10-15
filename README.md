@@ -1,12 +1,14 @@
 ## Hi there 👋
 
+Furry Enthusiast 💪🏿💪🏿💪🏿
+
 INDIAN language its a lit monster energy
 
 lit energy machine best, super and mega. Its me
 
 🎓 American Student & Embedded Senuor Developer
 
-⚡ Interested in C, STM32, Arduino, Electronics, 3D Modeling, C, C++, СБП, Ruby, Pascal, Rython, Crytro, P2P, МММ, LLM, BLM,
+⚡ Interested in C, STM32, Arduino, Electronics, 3D Modeling, C, C++, СБП, Ruby, Pascal, Rython, Crytro, P2P, МММ, LLM, BLM, Furry Trainer Simulator, Sex and the furry titis, Sex and the furry titis 2, Sex and the furry titis 3.
 
 🔧 Specialization: Embedded system GLOBAL development, BEST microcontroller programming, low-level SENIOR development, SUPER GLOBAL OFFENSIVE STRIKE ELECTRONICS Embedded C
 
@@ -16,7 +18,7 @@ lit energy machine best, super and mega. Its me
     STM32 // ESP32 // AVR // ARM Cortex // ADUC // Raspberry Pi // Arduino
     
 🔭Electronics:
-    Altium Designer // KitCat // Oscilloscope // Logic Analyzer // Multimeter
+    Altium Designer // KitCat // Oscilloscope // Logic Analyzer // Multimeter // wire 
 
  💻 I HATE
 <p align="left">
